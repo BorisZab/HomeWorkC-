@@ -1,0 +1,15 @@
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task019\obj\Debug\net6.0\Task019.csproj.AssemblyReference.cache
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task019\obj\Debug\net6.0\Task019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task019\obj\Debug\net6.0\Task019.AssemblyInfoInputs.cache
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task019\obj\Debug\net6.0\Task019.AssemblyInfo.cs
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task019\obj\Debug\net6.0\Task019.csproj.CoreCompileInputs.cache
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task019\bin\Debug\net6.0\Task019.exe
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task019\bin\Debug\net6.0\Task019.deps.json
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task019\bin\Debug\net6.0\Task019.runtimeconfig.json
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task019\bin\Debug\net6.0\Task019.dll
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task019\bin\Debug\net6.0\Task019.pdb
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task019\obj\Debug\net6.0\Task019.dll
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task019\obj\Debug\net6.0\refint\Task019.dll
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task019\obj\Debug\net6.0\Task019.pdb
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task019\obj\Debug\net6.0\Task019.genruntimeconfig.cache
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task019\obj\Debug\net6.0\ref\Task019.dll
