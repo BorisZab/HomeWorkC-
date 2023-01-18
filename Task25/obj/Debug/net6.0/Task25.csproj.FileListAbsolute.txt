@@ -1,0 +1,5 @@
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task25\obj\Debug\net6.0\Task25.csproj.AssemblyReference.cache
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task25\obj\Debug\net6.0\Task25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task25\obj\Debug\net6.0\Task25.AssemblyInfoInputs.cache
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task25\obj\Debug\net6.0\Task25.AssemblyInfo.cs
+C:\Users\apple\OneDrive\Документы\C#\Home_Work\Task25\obj\Debug\net6.0\Task25.csproj.CoreCompileInputs.cache
